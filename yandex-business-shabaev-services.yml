@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog>
+  <shop>
+    <categories>
+      <category id="101">Судебные споры — гражданские</category>
+      <category id="102">Судебные споры — арбитраж</category>
+      <category id="103">Юридическое сопровождение бизнеса (абонент)</category>
+      <category id="104">Договорная работа</category>
+      <category id="105">Банкротство — физические лица</category>
+      <category id="106">Банкротство — юридические лица</category>
+    </categories>
+    <offers>
+      <offer id="1001">
+        <name>Первичная консультация по спору (30–60 мин)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>7000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Разбор ситуации, оценка перспектив, рекомендации по стратегии и доказательствам. По итогам — план действий и список документов.</description>
+        <shortDescription>Оценка перспектив и стратегии</shortDescription>
+      </offer>
+      <offer id="1002">
+        <name>Письменное заключение по перспективам</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Письменная правовая позиция: риски, варианты стратегии, предварительный расчет требований/возражений и план процессуальных шагов.</description>
+        <shortDescription>Позиция и риски письменно</shortDescription>
+      </offer>
+      <offer id="1003">
+        <name>Подготовка искового заявления (гражданский суд)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Составление иска с правовым обоснованием, приложениями, расчетом, формирование комплекта для подачи. Стоимость зависит от сложности и объема материалов.</description>
+        <shortDescription>Иск и комплект документов</shortDescription>
+      </offer>
+      <offer id="1004">
+        <name>Подготовка отзыва/возражений на иск</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Подготовка отзыва/возражений, формирование доказательной базы, ходатайства, правовые доводы.</description>
+        <shortDescription>Отзыв/возражения</shortDescription>
+      </offer>
+      <offer id="1005">
+        <name>Ходатайство/заявление по делу</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>12000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Подготовка процессуального ходатайства (об обеспечительных мерах, истребовании доказательств, экспертизе, приобщении и др.).</description>
+        <shortDescription>Процессуальный документ</shortDescription>
+      </offer>
+      <offer id="1006">
+        <name>Апелляционная жалоба (гражданская)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>35000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Подготовка апелляционной жалобы/возражений с анализом решения, ошибок суда, подбором практики и доказательств.</description>
+        <shortDescription>Апелляция</shortDescription>
+      </offer>
+      <offer id="1007">
+        <name>Кассационная жалоба (гражданская)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>45000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Подготовка кассационной жалобы/возражений с углубленным анализом нарушений права и судебной практики.</description>
+        <shortDescription>Кассация</shortDescription>
+      </offer>
+      <offer id="1008">
+        <name>Представительство в суде (1 заседание)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Участие в одном судебном заседании, устные пояснения, позиция, заявленные ходатайства. Без подготовки документов.</description>
+        <shortDescription>Заседание</shortDescription>
+      </offer>
+      <offer id="1009">
+        <name>Комплексное ведение дела в 1 инстанции</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>80000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Ведение дела «под ключ»: стратегия, документы, заседания (до согласованного лимита), переговоры, контроль сроков, работа с доказательствами.</description>
+        <shortDescription>Под ключ (1 инстанция)</shortDescription>
+      </offer>
+      <offer id="1010">
+        <name>Исполнительное производство / сопровождение у приставов</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Подготовка заявлений, взаимодействие с ФССП, меры принудительного исполнения, контроль действий/бездействия приставов.</description>
+        <shortDescription>ФССП и исполнение</shortDescription>
+      </offer>
+      <offer id="1011">
+        <name>Досудебная претензия + переговоры / мировое</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <description>Претензия, расчет требований, позиция, переговорный трек, подготовка проекта мирового/соглашения.</description>
+        <shortDescription>Досудебное урегулирование</shortDescription>
+      </offer>
+      <offer id="1012">
+        <name>Первичная консультация по арбитражному спору (30–60 мин)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>9000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Разбор материалов, оценка перспектив, стратегия, суд. практика, план процессуальных действий.</description>
+        <shortDescription>Арбитраж: стратегия</shortDescription>
+      </offer>
+      <offer id="1013">
+        <name>Подготовка искового заявления (арбитраж)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>30000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Составление иска в арбитраж, расчет требований, формирование комплекта для подачи (в т.ч. через Мой арбитр).</description>
+        <shortDescription>Иск в арбитраж</shortDescription>
+      </offer>
+      <offer id="1014">
+        <name>Подготовка отзыва/возражений (арбитраж)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Отзыв/возражения, правовая позиция, ходатайства, подбор практики, организация доказательств.</description>
+        <shortDescription>Отзыв в арбитраж</shortDescription>
+      </offer>
+      <offer id="1015">
+        <name>Обеспечительные меры</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Подготовка заявления об обеспечительных мерах, обоснование срочности и рисков, комплект доказательств.</description>
+        <shortDescription>Обеспечение иска</shortDescription>
+      </offer>
+      <offer id="1016">
+        <name>Апелляционная жалоба (арбитраж)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>45000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Подготовка апелляции/возражений по АПК РФ, анализ решения, ошибки, практика.</description>
+        <shortDescription>Апелляция АПК</shortDescription>
+      </offer>
+      <offer id="1017">
+        <name>Кассационная жалоба (арбитраж)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>60000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Подготовка кассации/возражений, акцент на существенные нарушения норм права.</description>
+        <shortDescription>Кассация АПК</shortDescription>
+      </offer>
+      <offer id="1018">
+        <name>Представительство в арбитраже (1 заседание)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Участие в одном заседании в арбитражном суде (Москва, Московская область), позиция и ходатайства по делу.</description>
+        <shortDescription>Заседание в арбитраже</shortDescription>
+      </offer>
+      <offer id="1019">
+        <name>Ведение дела в 1 инстанции (арбитраж) — под ключ</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>180000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Полное сопровождение арбитражного спора: стратегия, документы, заседания (до согласованного лимита), переговоры, контроль сроков.</description>
+        <shortDescription>Арбитраж под ключ</shortDescription>
+      </offer>
+      <offer id="1020">
+        <name>Сопровождение взыскания задолженности (арбитраж)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>280000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Претензия, иск, обеспечительные меры (при необходимости), исполнительный лист, контроль исполнения.</description>
+        <shortDescription>Взыскание под ключ</shortDescription>
+      </offer>
+      <offer id="1021">
+        <name>Судебные расходы и их взыскание</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>102</categoryId>
+        <description>Подготовка заявления/расчета судебных расходов, доказательства, позиция по снижению/взысканию.</description>
+        <shortDescription>Судрасходы</shortDescription>
+      </offer>
+      <offer id="1022">
+        <name>Абонентское обслуживание — «Базовый» (до 10 часов/мес)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>80000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>103</categoryId>
+        <description>Консультации, типовые договоры/доп.соглашения, правовая экспертиза документов, претензии. Вне лимита — почасовая ставка. Стоимость указана за 1 месяц.</description>
+        <shortDescription>10 часов/мес</shortDescription>
+      </offer>
+      <offer id="1023">
+        <name>Абонентское обслуживание — «Стандарт» (до 20 часов/мес)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>150000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>103</categoryId>
+        <description>Всё из «Базового» + участие в переговорах, претензионная работа, процессуальные документы по спорам контрагентов. Стоимость указана за 1 месяц.</description>
+        <shortDescription>20 часов/мес</shortDescription>
+      </offer>
+      <offer id="1024">
+        <name>Абонентское обслуживание — «Премиум» (до 40 часов/мес)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>250000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>103</categoryId>
+        <description>Приоритетное сопровождение: договорная работа, комплаенс, претензии/споры, участие во встречах, сопровождение проверок (по согласованию). Стоимость указана за 1 месяц.</description>
+        <shortDescription>40 часов/мес</shortDescription>
+      </offer>
+      <offer id="1025">
+        <name>Почасовая ставка (вне абонентского лимита)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>8000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>103</categoryId>
+        <description>Работа по задаче: консультации, документы, переговоры, анализ материалов. Минимальный шаг — 30 минут. Стоимость указана за 1 час.</description>
+        <shortDescription>Ставка</shortDescription>
+      </offer>
+      <offer id="1026">
+        <name>Разработка договора (простой)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>104</categoryId>
+        <description>Договор под конкретную сделку + базовая защита интересов, приложения/спецификации при необходимости.</description>
+        <shortDescription>Договор (простой)</shortDescription>
+      </offer>
+      <offer id="1027">
+        <name>Разработка договора (сложный/индивидуальный)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>60000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>104</categoryId>
+        <description>Сложная конструкция, ответственность, штрафы, условия оплаты, IP/конфиденциальность, обеспечительные механизмы.</description>
+        <shortDescription>Договор (сложный)</shortDescription>
+      </offer>
+      <offer id="1028">
+        <name>Экспертиза договора / риск-анализ</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>104</categoryId>
+        <description>Проверка договора контрагента, риски, правки, рекомендации по защите, подготовка комментариев.</description>
+        <shortDescription>Проверка и правки</shortDescription>
+      </offer>
+      <offer id="1029">
+        <name>Протокол разногласий + согласование</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>35000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>104</categoryId>
+        <description>Подготовка протокола разногласий, пакет правок, участие в согласовании (1 созвон/переписка).</description>
+        <shortDescription>Разногласия</shortDescription>
+      </offer>
+      <offer id="1030">
+        <name>Комплект документов по сделке (пакет)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>90000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>104</categoryId>
+        <description>Договор + приложения + допсоглашения + NDA/акт/заявления (по списку).</description>
+        <shortDescription>Документы по сделке</shortDescription>
+      </offer>
+      <offer id="1031">
+        <name>Сопровождение переговоров по договору</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>30000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>104</categoryId>
+        <description>Участие в переговорах/созвонах, фиксация договоренностей, защита позиции, подготовка правок.</description>
+        <shortDescription>Переговоры</shortDescription>
+      </offer>
+      <offer id="1032">
+        <name>Консультация по банкротству физлица</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>12000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>105</categoryId>
+        <description>Анализ ситуации, имущества, рисков оспаривания сделок, выбор процедуры (суд/МФЦ) и план действий.</description>
+        <shortDescription>Стратегия банкротства</shortDescription>
+      </offer>
+      <offer id="1033">
+        <name>Банкротство физлица «под ключ» (судебная процедура)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>150000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>105</categoryId>
+        <description>Полное сопровождение: подготовка заявления, комплект документов, взаимодействие с финуправляющим, заседания (по необходимости), контроль этапов.</description>
+        <shortDescription>Под ключ (суд)</shortDescription>
+      </offer>
+      <offer id="1034">
+        <name>Внесудебное банкротство через МФЦ (подготовка и сопровождение)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>45000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>105</categoryId>
+        <description>Проверка критериев, подготовка пакета документов и сопровождение подачи в МФЦ.</description>
+        <shortDescription>МФЦ</shortDescription>
+      </offer>
+      <offer id="1035">
+        <name>Сопровождение отдельных этапов банкротства физлица</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>35000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>105</categoryId>
+        <description>Отдельная задача: подготовка документов, возражения, участие в заседании, анализ оспаривания сделок и т.д.</description>
+        <shortDescription>Этап/задача</shortDescription>
+      </offer>
+      <offer id="1036">
+        <name>Консультация по банкротству юрлица / рискам директора</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>106</categoryId>
+        <description>Оценка оснований, стратегия, риски субсидиарной ответственности, план действий для собственников/директора.</description>
+        <shortDescription>Стратегия и риски</shortDescription>
+      </offer>
+      <offer id="1037">
+        <name>Сопровождение банкротства юрлица (должник) — под ключ</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>450000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>106</categoryId>
+        <description>Подготовка заявления, пакет документов, взаимодействие с арбитражным управляющим, участие в заседаниях, контроль процедуры.</description>
+        <shortDescription>Юрлицо-должник</shortDescription>
+      </offer>
+      <offer id="1038">
+        <name>Сопровождение кредитора в банкротстве (включение в реестр)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>120000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>106</categoryId>
+        <description>Заявление о включении требований, доказательства, участие в заседании по реестру, контроль процедуры.</description>
+        <shortDescription>Кредитор: реестр</shortDescription>
+      </offer>
+      <offer id="1039">
+        <name>Защита от субсидиарной ответственности (директор/учредитель)</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>500000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>106</categoryId>
+        <description>Выработка позиции, сбор доказательств, возражения на заявление о субсидиарке, участие в заседаниях.</description>
+        <shortDescription>Субсидиарка: защита</shortDescription>
+      </offer>
+      <offer id="1040">
+        <name>Оспаривание сделок в банкротстве</name>
+        <vendor>Шабаев и партнёры</vendor>
+        <price>180000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>106</categoryId>
+        <description>Анализ сделок, подготовка заявления/возражений, доказательства, сопровождение рассмотрения.</description>
+        <shortDescription>Оспаривание</shortDescription>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
